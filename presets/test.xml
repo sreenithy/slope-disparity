@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CameraParameter xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <DelayOffset>0</DelayOffset>
+  <Exposure>0.5</Exposure>
+  <PixelClock>68</PixelClock>
+  <ShutterMode>Global</ShutterMode>
+  <TriggerMode>RisingEdge</TriggerMode>
+  <Width>960</Width>
+  <Height>580</Height>
+  <Left>30</Left>
+  <Top>330</Top>
+  <EnableGainBoost>false</EnableGainBoost>
+  <MasterGain>100</MasterGain>
+  <Scaler>100</Scaler>
+  <PixelFormat>BGR24</PixelFormat>
+</CameraParameter>
