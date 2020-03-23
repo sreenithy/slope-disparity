@@ -241,6 +241,7 @@
     <Compile Include="CamView_h.cs">
       <SubType>Form</SubType>
     </Compile>
+    <Compile Include="scripts\calibration.cs" />
     <Compile Include="scripts\ftr.cs" />
     <Compile Include="scripts\Class1.cs" />
     <Compile Include="scripts\Capture.cs" />
